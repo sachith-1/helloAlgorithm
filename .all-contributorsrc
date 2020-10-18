@@ -20,5 +20,6 @@
   "projectOwner": "sachith-1",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat)](#contributors)",
 }
