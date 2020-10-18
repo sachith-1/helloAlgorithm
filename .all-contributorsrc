@@ -20,5 +20,5 @@
   "projectOwner": "sachith-1",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true,
+  "skipCi": true
 }
