@@ -13,6 +13,24 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "lucifer955",
+      "name": "Nadeera Hashan Kuruppu",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37404014?v=4",
+      "profile": "https://github.com/lucifer955",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "maneeshhm",
+      "name": "maneeshhm",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29896563?v=4",
+      "profile": "https://github.com/maneeshhm",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -20,6 +38,5 @@
   "projectOwner": "sachith-1",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat)](#contributors)",
+  "skipCi": true
 }
