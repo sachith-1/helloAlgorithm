@@ -1,6 +1,6 @@
 # HelloAlgorithms
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Add Algorithms and data structures from any language you like.
 
@@ -29,6 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/jeraldlyh"><img src="https://avatars2.githubusercontent.com/u/37609749?v=4" width="100px;" alt=""/><br /><sub><b>Jerald</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=jeraldlyh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Achiraisuru"><img src="https://avatars1.githubusercontent.com/u/55431705?v=4" width="100px;" alt=""/><br /><sub><b>Isuru Bandara</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=Achiraisuru" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/skrstv123"><img src="https://avatars0.githubusercontent.com/u/47166055?v=4" width="100px;" alt=""/><br /><sub><b>Shekhar Srivastava</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=skrstv123" title="Code">💻</a></td>
   </tr>
 </table>
 
