@@ -1,6 +1,6 @@
 # HelloAlgorithms
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Add Algorithms and data structures from any language you like.
 
@@ -37,6 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Polokghosh53"><img src="https://avatars.githubusercontent.com/u/57084217?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Polok-Ghosh</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=Polokghosh53" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/PiyushDive"><img src="https://avatars.githubusercontent.com/u/71512357?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Piyush Dive</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=PiyushDive" title="Code">💻</a></td>
   </tr>
 </table>
 
