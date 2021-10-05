@@ -157,6 +157,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "jushutch",
+      "name": "Justin Hutchins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44933935?v=4",
+      "profile": "https://jushutch.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
