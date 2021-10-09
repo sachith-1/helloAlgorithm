@@ -1,6 +1,6 @@
 # HelloAlgorithms
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Add Algorithms and data structures from any language you like.
 
@@ -58,6 +58,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/nishanthamms"><img src="https://avatars.githubusercontent.com/u/55949688?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nishanthamms</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=nishanthamms" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Santhoshstark06"><img src="https://avatars.githubusercontent.com/u/58947968?v=4?s=100" width="100px;" alt=""/><br /><sub><b>A. Santhosh Kumar</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=Santhoshstark06" title="Code">💻</a></td>
     <td align="center"><a href="https://m3gh4l4.github.io/MeghalaPasikanti/"><img src="https://avatars.githubusercontent.com/u/63804116?v=4?s=100" width="100px;" alt=""/><br /><sub><b>m3gh4l4</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=m3gh4l4" title="Code">💻</a></td>
+    <td align="center"><a href="https://m3g4n127001.github.io/MeghanaPasikanti/"><img src="https://avatars.githubusercontent.com/u/54206748?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Meghana Pasikanti</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=m3g4n127001" title="Code">💻</a></td>
   </tr>
 </table>
 
