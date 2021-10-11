@@ -1,0 +1,29 @@
+HAI 1.2
+  CAN HAS STDIO?
+
+  HOW IZ I FUNC YR N
+    BTW VISIBLE N
+    DIFFRINT N AN BIGGR OF N AN 0
+    O RLY?
+      YA RLY
+          VISIBLE "NO RAEL INPOOT"
+          FOUND YR "NO RAEL"
+      MEBBE BOTH SAEM N  AN 0
+          FOUND YR 0
+      MEBBE BOTH SAEM N  AN 1
+          FOUND YR 1
+      MEBBE BOTH SAEM N  AN 2
+          FOUND YR 1
+      NO WAI
+          I HAS A TEMP
+          TEMP R SUM OF I IZ FUNC YR DIFF OF N AN 1 MKAY AN I IZ FUNC YR DIFF OF N AN 2 MKAY
+          FOUND YR TEMP
+    OIC
+    FOUND YR 1000
+  IF U SAY SO
+
+  I HAS A FIB
+  FIB R 8
+  VISIBLE "Fibonacci series " FIB "th number is "  I IZ FUNC YR FIB MKAY
+
+KTHXBYE
