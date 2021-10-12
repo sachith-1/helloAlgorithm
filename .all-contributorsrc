@@ -301,6 +301,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ssghait007",
+      "name": "Sachin Ghait",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26434312?v=4",
+      "profile": "https://sachin-ghait-blog.netlify.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
