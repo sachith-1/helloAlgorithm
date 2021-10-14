@@ -355,6 +355,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "tprototype",
+      "name": "the_prototype",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68457309?v=4",
+      "profile": "https://github.com/tprototype",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
