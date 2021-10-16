@@ -364,6 +364,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Ajay-creator",
+      "name": "Ajay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54075270?v=4",
+      "profile": "http://ajayveeraveni.me",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
