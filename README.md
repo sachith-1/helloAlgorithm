@@ -1,6 +1,6 @@
 # HelloAlgorithms
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Add Algorithms and data structures from any language you like.
 
@@ -69,6 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/codersking4"><img src="https://avatars.githubusercontent.com/u/92431106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>codersking4</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=codersking4" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tprototype"><img src="https://avatars.githubusercontent.com/u/68457309?v=4?s=100" width="100px;" alt=""/><br /><sub><b>the_prototype</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=tprototype" title="Code">💻</a></td>
     <td align="center"><a href="http://ajayveeraveni.me"><img src="https://avatars.githubusercontent.com/u/54075270?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ajay</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=Ajay-creator" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/bakuku22"><img src="https://avatars.githubusercontent.com/u/81952948?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bakuku</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=bakuku22" title="Code">💻</a></td>
   </tr>
 </table>
 
