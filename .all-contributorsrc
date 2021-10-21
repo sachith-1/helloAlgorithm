@@ -427,6 +427,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "priyal-babel",
+      "name": "Priyal Babel",
+      "avatar_url": "https://avatars.githubusercontent.com/priyal-babel",
+      "profile": "https://github.com/priyal-babel",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
