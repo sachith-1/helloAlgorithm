@@ -1,6 +1,6 @@
 # HelloAlgorithms
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Add Algorithms and data structures from any language you like.
 
@@ -77,6 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://linktr.ee/fathiputera"><img src="https://avatars.githubusercontent.com/u/89507753?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fathiputera</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=fathiputera" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tmahima"><img src="https://avatars.githubusercontent.com/u/91789037?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tmahima</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=tmahima" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/AlyfarhanKhan"><img src="https://avatars.githubusercontent.com/u/92777802?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Farhan Khan</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=AlyfarhanKhan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/MalikMuneebshahid86"><img src="https://avatars.githubusercontent.com/u/74771568?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MalikMuneebshahid86</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=MalikMuneebshahid86" title="Code">💻</a></td>
   </tr>
 </table>
 
