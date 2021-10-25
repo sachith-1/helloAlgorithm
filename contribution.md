@@ -9,3 +9,4 @@
 [m3g4n127001](https://github.com/m3g4n127001/)
 [meghala](https://github.com/m3gh4l4)
 [xharsshvardhan](https://github.com/xharshvardhan)
+[Deumus74](https://github.com/Deumus74)
