@@ -1,6 +1,6 @@
 # HelloAlgorithms
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Add Algorithms and data structures from any language you like.
 
@@ -86,6 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/yarth69"><img src="https://avatars.githubusercontent.com/u/85400617?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yarth69</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=yarth69" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mclmza"><img src="https://avatars.githubusercontent.com/u/7353871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michele Mazza</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=mclmza" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/luciasanti"><img src="https://avatars.githubusercontent.com/u/86559620?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucia de Santi Serafim</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=luciasanti" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/joaoguazzelli"><img src="https://avatars.githubusercontent.com/u/33009671?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Guazzelli</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=joaoguazzelli" title="Code">💻</a></td>
   </tr>
 </table>
 
