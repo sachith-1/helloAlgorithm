@@ -10,4 +10,3 @@
 [meghala](https://github.com/m3gh4l4)
 [xharsshvardhan](https://github.com/xharshvardhan)
 [Deumus74](https://github.com/Deumus74)
-[Shrivastavanolo](https://github.com/shrivastavanolo)
