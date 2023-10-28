@@ -1,6 +1,6 @@
 # HelloAlgorithms
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-62-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Add Algorithms and data structures from any language you like.
 
@@ -96,6 +96,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/IsuruSahan"><img src="https://avatars.githubusercontent.com/u/51040478?v=4?s=100" width="100px;" alt="IsuruSahan"/><br /><sub><b>IsuruSahan</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=IsuruSahan" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fa19bce007"><img src="https://avatars.githubusercontent.com/u/92902603?v=4?s=100" width="100px;" alt="MUHAMMAD KALEEM ULLAH"/><br /><sub><b>MUHAMMAD KALEEM ULLAH</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=fa19bce007" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/aryacodez"><img src="https://avatars.githubusercontent.com/u/69688408?v=4?s=100" width="100px;" alt="Arya Sarkar"/><br /><sub><b>Arya Sarkar</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=aryacodez" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/salithashamood"><img src="https://avatars.githubusercontent.com/u/76055035?v=4?s=100" width="100px;" alt="Salitha Shamood Jayamanna"/><br /><sub><b>Salitha Shamood Jayamanna</b></sub></a><br /><a href="https://github.com/sachith-1/helloAlgorithm/commits?author=salithashamood" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
